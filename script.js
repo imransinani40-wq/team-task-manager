@@ -9,7 +9,7 @@ function addTask() {
 
     // Kontrolli nëse inputi është bosh
     if (taskText === "") {
-        alert("Ju lutem shkruani një detyrëeeeeeeee!");
+        alert("Ju lutem shkruani një detyrëeeeeeeeeeeeee!");
         return;
     }
 
